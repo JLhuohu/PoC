@@ -104,6 +104,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
+8
 # block anything with password in the name cuz you never know
 *password*
